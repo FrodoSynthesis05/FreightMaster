@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "426286283290",
+    "project_id": "freightmaster-e3c90",
+    "storage_bucket": "freightmaster-e3c90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426286283290:android:23532ed076be1e267b2fa3",
+        "android_client_info": {
+          "package_name": "com.frodo.freightmaster.freightmaster"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDthoU5abCnVoc_Wne1TH_e_dZKV0Uh8gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
